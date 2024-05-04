@@ -95,7 +95,10 @@ h1{
     text-align: center;
     margin-right: 50px;
     margin-left: 60px;
-    margin-top: 50;
+    margin-top: 50px;
+    font-family: 'Nexa-Heavy';
+    font-weight: bold;
+    font-size: 13px;
 }
 .p2{
     width: 500px;
@@ -103,6 +106,9 @@ h1{
     margin-right: 50px;
     margin-left: 60px;
     margin-top: 50px;
+    font-family: 'Nexa-Heavy';
+    font-weight: bold;
+    font-size: 13px;
 }
 .p3{
     width: 500px;
@@ -110,46 +116,57 @@ h1{
     margin-right: 50px;
     margin-left: 60px;
     margin-top: 50px;
+    font-family: 'Nexa-Heavy';
+    font-weight: bold;
+    font-size: 13px;
 }
 .V{
     font-size: 100pt;
     bottom: 550px;
     position: absolute;
-    margin-left: 790px;
+    margin-left: 780px;
     color: #5c5b57;
+    top: 115%;
+    font-family: Arial;
+    font-weight: bold;
 }
 .P{
     font-size: 100pt;
     bottom: 260px;
     position: absolute;
-    margin-left: 790px;
+    margin-left: 780px;
     color: #3078bd;
-
+    top: 160%;
+    font-family: Arial;
+    font-weight: bold;
 }
 .M{
     font-size: 100pt;
     bottom: -35px;
     position: absolute;
-    margin-left: 790px;
+    margin-left: 780px;
     color: #932890;
-
+    top: 215%;
+    font-family: Arial;
+    font-weight: bold;
 }
 .line1{
 width :20%;
 height: 4px;
 border: 0 none;
-top: 290px;
-right: 850px;
+top: 150%;
+right: 66%;
 background-color: black;
 position: absolute;
 }
-
 .line2{
     width :20%;
     height: 4px;
     border: 0 none;
-    top: 600px;
-    right: 850px;
+    top: 200%;
+    right: 66%;
     background-color: black;
     position: absolute;
-    }
+}
+
+
