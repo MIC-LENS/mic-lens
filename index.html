@@ -8,14 +8,15 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.4.2/css/fontawesome.min.css" integrity="sha384-BY+fdrpOd3gfeRvTSMT+VUZmA728cfF9Z2G42xpaRkUGu2i3DyzpTURDo5A6CaLK" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+    <link rel="stylesheet" href="https://unicons.iconscout.com/release/v4.0.8/css/line.css">
     <link rel="stylesheet" href="style.css">
     <link href='https://fonts.googleapis.com/css?family=EB Garamond' rel='stylesheet'>
 </head>
 <body>
     <div class="banner" id="home">
-        <div class="navbar">
+        <div class="navbar" id="NAV">
         
-        <ul>
+        <ul class="nav_menu_list">
             <li><a href="#home">HOME</a></li>
             <li><a href="#services">SERVICES</a></li>
             <li><a href="#feedback">FEEDBACK</a></li>
@@ -24,7 +25,9 @@
         </ul>
        
     </div>
-    
+    <div class="nav-menu-btn">
+        <i class="uil uil-bars" style="color: white;" onclick="myMenuFunction()"></i>
+    </div>
     <div class="logok">
         <img src="logo.png" alt="">
     </div>
@@ -34,7 +37,7 @@
     </div>
         <div class="section" id="services">
         <div class="text">
-            <h1>VIDEOGRAPHY</h1>
+            <h1 class="hhh1">VIDEOGRAPHY</h1>
             <p class="p1">
                 Our videography service captures the essence of your story with cinematic flair. From weddings to corporate events, we blend creativity and technical expertise to deliver engaging 
                 visuals that leave a lasting impression. Let us bring your vision to life on screen.
@@ -46,7 +49,7 @@
     </div>
     <div class="section">
         <div class="text">
-            <h1>PHOTOGRAPHY</h1>
+            <h1 class="hhh1">PHOTOGRAPHY</h1>
             <p class="p2">
                 Our photography service specializes in capturing moments that last a lifetime. From stunning portraits to dynamic event coverage, we provide professional photography that tells your unique story with creativity and style. Whether it's for personal milestones or professional needs, our goal is to deliver images that 
                 exceed expectations and leave a lasting impression. Let us capture your moments, one frame at a time.
@@ -58,7 +61,7 @@
     </div>
     <div class="section">
         <div class="text">
-            <h1>MUSIC RECORDING</h1>
+            <h1 class="hhh2">MUSIC RECORDING</h1>
             <p class="p3">
                 Our music recording service offers professional studio-quality recordings for artists and bands. Whether you're laying down tracks for a single, EP, or full album, our experienced engineers and state-of-the-art equipment ensure your music sounds its best. From capturing the raw energy of a live performance to meticulously crafting layered productions, we work closely with you to bring your musical vision to life.
                  Let us help you create music that resonates with your audience and stands the test of time.
@@ -91,7 +94,7 @@
                 <img src="girl.jpg" alt="" class="imgf1">
                 <h3 class="namef1">Amelia Scott</h1>
                 <hr class ="linef1">
-                <p class="pf1">Wow, this photo is amazing! The  composition is <br>
+                <p class="pf1" id="pf2">Wow, this photo is amazing! The  composition is <br>
                      perfect, and the lighting really brings out the <br>
                      colors beautifully. It's clear a lot of thought went <br>
                      into capturing this moment. I love it</p>

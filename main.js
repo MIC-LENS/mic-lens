@@ -1,3 +1,14 @@
+function myMenuFunction(){
+  var menuBtn = document.getElementById("NAV");
+  if(menuBtn.className === "navbar"){
+    menuBtn.className += " responsive";
+  } else {
+    menuBtn.className = "navbar";
+  }
+}
+
+ 
+ 
  const sr = ScrollReveal({
           origin: 'top',
           distance: '80px',
@@ -17,7 +28,6 @@
     reset: true
   })
   srLeft.reveal('.section img',{interval: 200})
-  srLeft.reveal('h1',{interval: 300})
   srLeft.reveal('.p1',{interval: 200})
   srLeft.reveal('.p2',{interval: 200})
   srLeft.reveal('.p3',{interval: 200})
