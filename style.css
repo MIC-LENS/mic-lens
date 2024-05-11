@@ -420,7 +420,7 @@ margin-top: 0;
 .social-icon:hover {
     color: gray;
 }
-@media (min-width: 1025px) and (max-width: 1200px){
+@media (min-width: 901px) and (max-width: 1200px){
     .V{
         top: 110%;
      }
@@ -437,7 +437,7 @@ margin-top: 0;
         top: 165%;
      }
 }
-/*@media only screen and (max-width: 900px){
+@media only screen and (min-width: 769px) and (max-width: 900px){
     .banner{
         width: 128%;
     }
@@ -550,10 +550,11 @@ margin-top: 0;
     .footer-right {
         margin-right: 100px;
     }
-}*/
-@media only screen and (max-width: 768px){
+}
+@media only screen and (min-width: 520px) and (max-width: 768px){
     .banner{
-        width: 100%;
+        width: auto;
+        overflow: hidden;
     }
     .content{
         width: 100%;
@@ -653,6 +654,7 @@ margin-top: 0;
         margin-right: 0px;
     }
     .navbar{
+        overflow: hidden;
         position: fixed;
         top: 33px;
         left: -100%;
