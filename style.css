@@ -545,13 +545,13 @@ margin-top: 0;
         overflow: hidden;
         position: fixed;
         top: 33px;
-        left: -100%;
+        left: -150%;
         flex-direction: column;
         justify-content: center;
         align-items: center;
         background:rgba(255, 255, 255, 0.7);
         backdrop-filter: blur(100px);
-        width: 100%;
+        width: 128%;
         height: 5vh;
         transition: .3s;
     }
