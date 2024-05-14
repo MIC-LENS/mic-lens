@@ -80,7 +80,9 @@
    color: #fff;
    font-family: 'Nexa-Heavy';
 }
-
+.dser{
+    width: 1250px;
+}
 .section{
     display: flex;
     justify-content: space-between;
@@ -456,6 +458,9 @@ margin-top: 0;
     }
     .content h1{
         font-size: 20px;
+    }
+    .dser{
+        width: 163%;
     }
     .section{
         display: flex;
