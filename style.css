@@ -552,7 +552,7 @@ margin-top: 0;
         margin-right: 100px;
     }
 }
-@media only screen and (min-width: 540px){
+@media only screen and (max-width: 540px){
     .banner{
         width: 130%;
     }
@@ -820,7 +820,7 @@ margin-top: 0;
 }
 
 
-@media only screen and (min-width: 768px){
+@media only screen and (max-width: 768px){
     .banner{
         width: 100%;
         
