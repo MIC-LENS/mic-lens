@@ -490,12 +490,13 @@ margin-top: 0;
         margin-left: 0;
         flex-direction: column;
         margin-top: 30px;
+        text-align: center;
     }
     .p1{
         width: 80%;
         text-align: center;
         margin-right: 100px;
-        margin-left: 150px;
+        margin-left: 0px;
         margin-top: 10px;
         font-family: 'Nexa-Heavy';
         font-weight: bold;
@@ -505,7 +506,7 @@ margin-top: 0;
         width: 80%;
         text-align: center;
         margin-right: 50px;
-        margin-left: 150px;
+        margin-left: 0px;
         margin-top: 10px;
         font-family: 'Nexa-Heavy';
         font-weight: bold;
@@ -515,7 +516,7 @@ margin-top: 0;
         width: 80%;
         text-align: center;
         margin-right: 50px;
-        margin-left: 150px;
+        margin-left: 0px;
         margin-top: 10px;
         font-family: 'Nexa-Heavy';
         font-weight: bold;
@@ -679,6 +680,7 @@ margin-top: 0;
     .contact-form {
         max-width: 400px;
         width: 400%;
+        align-self: center;
     }
     .footer{
         width: 163%;
