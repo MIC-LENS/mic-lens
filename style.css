@@ -495,7 +495,7 @@ margin-top: 0;
     .p1{
         width: 80%;
         text-align: center;
-        margin-right: 100px;
+        margin-right: 0px;
         margin-left: 0px;
         margin-top: 10px;
         font-family: 'Nexa-Heavy';
@@ -505,7 +505,7 @@ margin-top: 0;
     .p2{
         width: 80%;
         text-align: center;
-        margin-right: 50px;
+        margin-right: 0px;
         margin-left: 0px;
         margin-top: 10px;
         font-family: 'Nexa-Heavy';
@@ -515,7 +515,7 @@ margin-top: 0;
     .p3{
         width: 80%;
         text-align: center;
-        margin-right: 50px;
+        margin-right: 0px;
         margin-left: 0px;
         margin-top: 10px;
         font-family: 'Nexa-Heavy';
