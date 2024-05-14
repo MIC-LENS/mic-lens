@@ -540,7 +540,7 @@ margin-top: 0;
     .nav-menu-btn{
         position: relative;
         display: flex;
-        margin-left: 450px;
+        margin-left: 600px;
         margin-top: 5px;
     }
     .navbar.responsive{
@@ -554,7 +554,7 @@ margin-top: 0;
         margin-right: 10px;
     }
     .navbar ul{
-        margin-left: 250px;
+        margin-left: 100px;
         margin-right: 0px;
     }
     .navbar{
@@ -579,7 +579,7 @@ margin-top: 0;
         display: flex;
         justify-content: space-between;
         flex-direction: column;
-        width: 128%;
+        width: 163%;
         overflow: hidden;
         overflow-x: hidden;
     }
@@ -588,7 +588,7 @@ margin-top: 0;
         height: 1000px;
         margin-left: 0;
         position: relative;
-        width: 128%;
+        width: 163%;
         overflow: hidden;
         overflow-x: hidden;
     }
