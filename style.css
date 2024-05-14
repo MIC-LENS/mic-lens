@@ -442,6 +442,8 @@ margin-top: 0;
 @media only screen and (max-width: 768px){
     .banner{
         width: 128%;
+        overflow: hidden;
+        overflow-x: hidden;
     }
     
     .content{
