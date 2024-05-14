@@ -13,6 +13,7 @@
     background-image: linear-gradient(rgba(42, 41, 41, 0.75),rgba(0,0,0,0.75)),url(home.jpg);
     background-size: cover;
     background-position: center;
+    display:flex;
 }
 .navbar{
     width: 100%;
@@ -546,8 +547,6 @@ margin-top: 0;
         margin-right: 0px;
     }
     .navbar{
-        overflow: hidden;
-        overflow-x: hidden;
         position: fixed;
         top: 33px;
         left: -150%;
