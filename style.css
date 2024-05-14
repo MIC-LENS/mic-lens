@@ -476,12 +476,14 @@ margin-top: 0;
         height: 50%;
         margin-top: 20px;
         width: 70%;
+        align-self: center;
     }
     .hhh1{
         margin: 0;
         margin-left: 0;
         flex-direction: column;
         margin-top: 30px;
+        align-self: center;
     }
     .hhh2{
         margin: 0;
