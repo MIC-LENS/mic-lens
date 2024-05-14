@@ -483,7 +483,7 @@ margin-top: 0;
         margin-left: 0;
         flex-direction: column;
         margin-top: 30px;
-        align-self: center;
+        text-align: center;
     }
     .hhh2{
         margin: 0;
