@@ -440,6 +440,9 @@ margin-top: 0;
 }
 
 @media only screen and (max-width: 600px){
+    .banner{
+        width: 128%;
+    }
     
     .content{
         width: 100%;
@@ -555,7 +558,7 @@ margin-top: 0;
     .logok{
         width: 100%;
         top: 280px;
-        margin-left: 20px;
+        margin-left: 90px;
     }
     .sectionf{
         display: flex;
@@ -567,7 +570,7 @@ margin-top: 0;
         height: 1000px;
         margin-left: 0;
         position: relative;
-        width: 100%;
+        width: 128%;
     }
     .firstf{
         border-radius: 20%;
@@ -644,6 +647,9 @@ margin-top: 0;
     .hh1{
         display: none;
     }
+    .sectioncontact{
+        width: 128%;
+    }
     .contact-form-container {
         margin-right: 500px; 
         margin-top: 20px; 
@@ -652,6 +658,9 @@ margin-top: 0;
     .contact-form {
         max-width: 400px;
         width: 400%;
+    }
+    .footer{
+        width: 128%;
     }
     .footer-right {
         flex: 1;
