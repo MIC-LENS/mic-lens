@@ -439,7 +439,7 @@ margin-top: 0;
      }
 }
 
-@media only screen and (max-width: 600px){
+@media only screen and (max-width: 768px){
     .banner{
         width: 128%;
     }
@@ -447,7 +447,7 @@ margin-top: 0;
     .content{
         width: 100%;
         top: 85%;
-        margin-left: 20px;
+        margin-left: 90px;
     }
     .content h1{
         font-size: 20px;
@@ -459,20 +459,20 @@ margin-top: 0;
     }
     
     .section img{
-        margin-left: 125px;
+        margin-left: 175px;
         height: 50%;
         margin-top: 20px;
         width: 70%;
     }
     .hhh1{
         margin: 0;
-        margin-left: 290px;
+        margin-left: 350px;
         flex-direction: column;
         margin-top: 30px;
     }
     .hhh2{
         margin: 0;
-        margin-left: 250px;
+        margin-left: 340px;
         flex-direction: column;
         margin-top: 30px;
     }
@@ -480,7 +480,7 @@ margin-top: 0;
         width: 80%;
         text-align: center;
         margin-right: 100px;
-        margin-left: 90px;
+        margin-left: 150px;
         margin-top: 10px;
         font-family: 'Nexa-Heavy';
         font-weight: bold;
@@ -490,7 +490,7 @@ margin-top: 0;
         width: 80%;
         text-align: center;
         margin-right: 50px;
-        margin-left: 90px;
+        margin-left: 150px;
         margin-top: 10px;
         font-family: 'Nexa-Heavy';
         font-weight: bold;
@@ -500,7 +500,7 @@ margin-top: 0;
         width: 80%;
         text-align: center;
         margin-right: 50px;
-        margin-left: 90px;
+        margin-left: 150px;
         margin-top: 10px;
         font-family: 'Nexa-Heavy';
         font-weight: bold;
@@ -524,7 +524,7 @@ margin-top: 0;
     .nav-menu-btn{
         position: relative;
         display: flex;
-        margin-left: 730px;
+        margin-left: 850px;
         margin-top: 5px;
     }
     .navbar.responsive{
@@ -538,7 +538,7 @@ margin-top: 0;
         margin-right: 10px;
     }
     .navbar ul{
-        margin-left: 180px;
+        margin-left: 250px;
         margin-right: 0px;
     }
     .navbar{
@@ -629,7 +629,7 @@ margin-top: 0;
         height: 5%;
         width: 30%;
         margin-top: 20px;
-        margin-left: 310px;
+        margin-left: 350px;
         position: relative;
         align-items: center;
     }
