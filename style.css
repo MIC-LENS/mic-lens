@@ -458,6 +458,8 @@ margin-top: 0;
         display: flex;
         justify-content: center;
         flex-direction: column;
+        overflow: hidden;
+        overflow-x: hidden;
     }
     
     .section img{
@@ -545,6 +547,7 @@ margin-top: 0;
     }
     .navbar{
         overflow: hidden;
+        overflow-x: hidden;
         position: fixed;
         top: 33px;
         left: -150%;
