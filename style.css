@@ -529,7 +529,7 @@ margin-top: 0;
     .nav-menu-btn{
         position: relative;
         display: flex;
-        margin-left: 850px;
+        margin-left:auto;
         margin-top: 5px;
     }
     .navbar.responsive{
