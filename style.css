@@ -598,7 +598,7 @@ margin-top: 0;
         height: 40%;
         width: 50%;
         margin-top: 100px;
-        margin-left: 0px;
+        margin-left: 210px;
         position: relative;
         align-items: center;
         align-self: center;
@@ -642,19 +642,17 @@ margin-top: 0;
         height: 40%;
         width: 50%;
         margin-top: 10px;
-        margin-left: 0px;
+        margin-left: 170px;
         position: relative;
         align-items: center;
-        align-self: center;
     }
     .starl{
         height: 5%;
         width: 30%;
         margin-top: 20px;
-        margin-left: 0px;
+        margin-left: 350px;
         position: relative;
         align-items: center;
-        align-self: center;
     }
     .star{
         margin-left: 50px;
@@ -678,13 +676,12 @@ margin-top: 0;
     .contact-form-container {
         margin-right: 500px; 
         margin-top: 20px; 
-        margin-left: 340px;
+        margin-left: 240px;
     }
     .contact-form {
         max-width: 400px;
         width: 400%;
         align-self: center;
-
     }
     .footer{
         width: 163%;
