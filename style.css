@@ -461,13 +461,14 @@ margin-top: 0;
     }
     .dser{
         width: 163%;
+        overflow: hidden;
+        overflow-x: hidden;
     }
     .section{
         display: flex;
         justify-content: center;
         flex-direction: column;
-        overflow: hidden;
-        overflow-x: hidden;
+
     }
     
     .section img{
@@ -576,6 +577,8 @@ margin-top: 0;
         justify-content: space-between;
         flex-direction: column;
         width: 128%;
+        overflow: hidden;
+        overflow-x: hidden;
     }
     .fbg{
         background-color: black;
@@ -661,6 +664,8 @@ margin-top: 0;
     }
     .sectioncontact{
         width: 163%;
+        overflow: hidden;
+        overflow-x: hidden;
     }
     .contact-form-container {
         margin-right: 500px; 
@@ -673,6 +678,8 @@ margin-top: 0;
     }
     .footer{
         width: 163%;
+        overflow: hidden;
+        overflow-x: hidden;
     }
     .footer-right {
         flex: 1;
