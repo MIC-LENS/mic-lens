@@ -450,11 +450,15 @@ margin-top: 0;
         overflow: hidden;
         overflow-x: hidden;
     }
-    
+    .logok{
+        width: 100%;
+        top: 280px;
+        margin-left: 120px;
+    }
     .content{
         width: 100%;
         top: 85%;
-        margin-left: 90px;
+        margin-left: 120px;
     }
     .content h1{
         font-size: 20px;
@@ -540,7 +544,7 @@ margin-top: 0;
     .nav-menu-btn{
         position: relative;
         display: flex;
-        margin-left: 600px;
+        margin-left: 500px;
         margin-top: 5px;
     }
     .navbar.responsive{
@@ -569,11 +573,6 @@ margin-top: 0;
         width: 128%;
         height: 5vh;
         transition: .3s;
-    }
-    .logok{
-        width: 100%;
-        top: 280px;
-        margin-left: 90px;
     }
     .sectionf{
         display: flex;
@@ -650,7 +649,7 @@ margin-top: 0;
         height: 5%;
         width: 30%;
         margin-top: 20px;
-        margin-left: 150px;
+        margin-left: 180px;
         position: relative;
         align-items: center;
     }
