@@ -8,7 +8,7 @@
     src: url(Nexa-Heavy.ttf);
 }
 .banner{
-    width: 100%;
+    width: 1250px;
     height: 100vh;
     background-image: linear-gradient(rgba(42, 41, 41, 0.75),rgba(0,0,0,0.75)),url(home.jpg);
     background-size: cover;
@@ -439,11 +439,8 @@ margin-top: 0;
      }
 }
 
-@media only screen and (max-width: 768px){
-    .banner{
-        width: 100%;
-        
-    }
+@media only screen and (max-width: 600px){
+    
     .content{
         width: 100%;
         top: 85%;
