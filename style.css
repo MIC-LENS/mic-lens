@@ -8,7 +8,7 @@
     src: url(Nexa-Heavy.ttf);
 }
 .banner{
-    width: 1250px;
+    width: 1260px;
     height: 100vh;
     background-image: linear-gradient(rgba(42, 41, 41, 0.75),rgba(0,0,0,0.75)),url(home.jpg);
     background-size: cover;
@@ -185,14 +185,14 @@ position: absolute;
 .sectionf{
     display: flex;
     justify-content: space-between;
-    width: 1250px;
+    width: 1260px;
 }
 .fbg{
     background-color: black;
     height: 600px;
     margin-left: 0;
     position: relative;
-    width: 1250px;
+    width: 1260px;
 }
 .firstf{
     border-radius: 20%;
@@ -278,7 +278,7 @@ position: absolute;
     height: 100vh;
     overflow: hidden;
     height: 20%; 
-    width: 1250px;
+    width: 1260px;
 }
 .hh1 {
 color: white;
@@ -377,7 +377,7 @@ background-color: black;
 color: white;
 padding: 25px 0px 20px;
 text-align: left;
-width: 1250px;
+width: 1260px;
 bottom: 0;
 display: flex;
 height: 15%;
