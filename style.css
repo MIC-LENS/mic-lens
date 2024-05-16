@@ -426,7 +426,7 @@ margin-top: 0;
 .social-icon:hover {
     color: gray;
 }
-@media (min-width: 901px) and (max-width: 1200px){
+@media only screen and (min-width: 901px) and (max-width: 1200px){
     .V{
         top: 110%;
      }
